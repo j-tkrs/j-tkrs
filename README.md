@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Learning to do the things, 1 thing at a thing. 
+Learning to do the things, 1 thing at a time. 
