@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @j-tkrs
 - 👀 I’m interested in ... learning!
-- 🌱 I’m currently learning ... Cyber/Info Sec, Network Engineering, Scripting/Python
+- 🌱 I’m currently learning ... Cyber Sec, Technical Development Engineering, Automation and Scripting
 - 💞️ I’m looking to collaborate on ... anything?
 - 📫 How to reach me ... you already did. 
 
